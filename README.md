@@ -92,6 +92,3 @@ Access from another computer:
   3.	Install and pull docker image on server side.
   4.	Connect to IP address of server then the port number:
     a.  xxx.xxx.xx.xx:8080
-
-
-![image](https://github.com/user-attachments/assets/73587a3b-7964-4796-8edd-13a762a84af5)
