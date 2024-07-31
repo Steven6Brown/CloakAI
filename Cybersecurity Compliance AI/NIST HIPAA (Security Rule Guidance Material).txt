@@ -1,0 +1,94 @@
+Security Rule Guidance Material
+In this section, you will find educational materials to help you learn more about the HIPAA Security Rule and other sources of standards for safeguarding electronic protected health information (e-PHI).
+
+Recognized Security Practices Video Presentation
+The HHS Office for Civil Rights (OCR) has produced a pre-recorded video presentation for HIPAA covered entities and business associates (regulated entities) on “recognized security practices,” as set forth in Public Law 116-321 (Section 13412 of the Health Information Technology for Economic and Clinical Health Act (HITECH).  The statute requires OCR to take into consideration in certain Security Rule enforcement and audit activities whether a regulated entity has adequately demonstrated that recognized security practices were “in place” for the prior 12 months.
+
+This presentation is intended to educate regulated entities on the categories of recognized security practices and how entities may demonstrate implementation. Topics include:
+
+The 2021 HITECH Amendment regarding recognized security practices
+How regulated entities can adequately demonstrate that recognized security practices are in place
+How OCR is requesting evidence of recognized security practices
+Resources for information about recognized security practices
+OCR’s answers to questions on recognized security practices
+The video presentation may be found on OCR’s YouTube channel at: https://youtu.be/e2wG7jUiRjE 
+
+Security Rule Educational Paper Series
+The HIPAA Security Information Series is a group of educational papers which are designed to give HIPAA covered entities insight into the Security Rule and assistance with implementation of the security standards.
+
+Security 101 for Covered Entities - PDF
+
+Administrative Safeguards - PDF
+
+Physical Safeguards - PDF
+
+Technical Safeguards - PDF
+
+Organizational, Policies and Procedures and Documentation Requirements - PDF
+
+Basics of Risk Analysis and Risk Management - PDF
+
+Security Standards: Implementation for the Small Provider - PDF
+
+HIPAA Security Guidance
+HHS has developed guidance and tools to assist HIPAA covered entities in identifying and implementing the most cost effective and appropriate administrative, physical, and technical safeguards to protect the confidentiality, integrity, and availability of e-PHI and comply with the risk analysis requirements of the Security Rule.
+
+Risk Analysis
+HHS Security Risk Assessment Tool 
+NIST HIPAA Security Rule Toolkit Application 
+
+HHS has also developed guidance to provide HIPAA covered entities with general information on the risks and possible mitigation strategies for remote use of and access to e-PHI.
+
+Remote Use - PDF
+
+HHS has gathered tips and information to help you protect and secure health information patients entrust to you when using mobile devices.
+
+Mobile Device 
+
+HHS has developed guidance to help covered entities and business associates better understand and respond to the threat of ransomware.
+
+Ransomware - PDF
+
+National Institute of Standards and Technology (NIST) Special Publications
+NIST is a federal agency that sets computer security standards for the federal government and publishes reports on topics related to IT security. The following special publications are provided as an informational resource and are not legally binding guidance for covered entities.
+
+NIST Special Publication 800-30: Risk Management Guide for Information Technology Systems - PDF
+
+NIST Special Publication 800-52: Guidelines for the Selection and Use of Transport Layer Security (TLS) Implementations - PDF
+
+NIST Special Publication 800-66 Rev. 2: Implementing the HIPAA Security Rule: A Cybersecurity Resource Guide 
+
+NIST Special Publication 800-77: Guide to IPsec VPNs - PDF
+
+NIST Special Publication 800-88: Computer Security, Guidelines for Media Sanitization - PDF
+
+NIST Special Publication 800-111: Guide to Storage Encryption Technologies for End User Devices - PDF
+
+NIST Special Publication 800-113: Guide to SSL VPNs - PDF
+
+Federal Information Processing Standards Publication 140-2: Security Requirements for Cryptographic Modules - PDF
+
+NIST HIPAA Security Rule Toolkit Application 
+
+NIST Cyber Security Framework to HIPAA Security Rule Crosswalk - PDF
+
+The Federal Trade Commission Guidance
+Security Risks to Electronic Health Information from Peer-to-Peer File Sharing Applications -The Federal Trade Commission (FTC) has developed a guide to Peer-to-Peer (P2P) security issues for businesses that collect and store sensitive information.  
+
+Safeguarding Electronic Protected Health Information on Digital Copiers -The Federal Trade Commission (FTC) has tips on how to safeguard sensitive data stored on the hard drives of digital copiers.
+
+Medical Identity Theft: FAQs for Health Care Providers and Health Plans -The Federal Trade Commission (FTC) has tips on how to minimize the risk of medical identity theft and how to help patients if they’re victimized.
+
+OCR Cyber Awareness Newsletters
+In 2019, OCR moved to quarterly cybersecurity newsletters. The purpose of the newsletters remains unchanged: to help HIPAA covered entities and business associates remain in compliance with the HIPAA Security Rule by identifying emerging or prevalent issues, and highlighting best practices to safeguard PHI. Visit our Cybersecurity Newsletter Archive page to view previous newsletters from 2016.
+
+October 2023 OCR Cybersecurity Newsletter: How Sanction Policies Can Support HIPAA Compliance
+June 2023 OCR Cybersecurity Newsletter: HIPAA and Cybersecurity Authentication
+October 2022 OCR Cybersecurity Newsletter: HIPAA Security Rule Security Incident Procedures
+Quarter 1 2022 OCR Cybersecurity Newsletter: Defending Against Common Cyber-Attacks
+Fall 2021 OCR Cybersecurity Newsletter: Securing Your Legacy [System Security]
+Summer 2021 OCR Cybersecurity Newsletter: Controlling Access to ePHI: For Whose Eyes Only?
+Summer 2020 OCR Cybersecurity Newsletter: HIPAA and IT Asset Inventories
+Summer 2019 OCR Cybersecurity Newsletter: Managing Malicious Insider Threats
+Spring 2019 OCR Cybersecurity Newsletter: Advanced Persistent Threats and Zero Day Vulnerabilities
+Fall 2019 OCR Cybersecurity Newsletter: What Happened to My Data?: Update on Preventing, Mitigating and Responding to Ransomware

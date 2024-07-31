@@ -1,0 +1,79 @@
+AC.1.002 User Access Restrictions (CMMC Level 1)
+by Kellep Charles on March 8, 2021
+Limit information system access to the types of transactions and functions that authorized users are permitted to execute.
+
+Source Discussion
+
+Organizations may choose to define access privileges or other attributes by account, by type of account, or a combination of both. System account types include individual, shared, group, system, anonymous, guest, emergency, developer, manufacturer, vendor, and temporary. Other attributes required for authorizing access include restrictions on time-of-day, day-of-week, and point-of-origin. In defining other account attributes, organizations consider system-related requirements (e.g., system upgrades scheduled maintenance,) and mission or business requirements, (e.g., time zone differences, customer requirements, remote access to support travel requirements).
+
+
+ 
+
+CMMC Clarification
+
+Cloud Native Now 2024
+Make sure to limit users/employees to only the information systems, roles, or applications they are permitted to use and that are needed for their jobs.
+
+CMMC GUIDE FURTHER DISCUSSION
+Limit users to only the information systems, roles, or applications they are permitted to use and are needed for their roles and responsibilities [a]. Limit access to applications and data based on the authorized users’ role and responsibilities [b]. Common types of functions a user can be assigned are creating, read, update, and delete.
+
+Examples
+
+You are in charge of payroll for the company and need access to certain company financial information and systems. You work with IT to set up the system so that when users log onto the company’s network, only those employees you allow can use the payroll applications and access payroll data. Because of this good access control, your coworkers in the Shipping Department cannot access information about payroll or paychecks.
+
+ 
+
+References
+
+FAR Clause 52.204-21 b.1.ii
+
+NIST SP 800-171 Rev 1 3.1.2
+
+CIS Controls v7.1 1.4, 1.6, 5.1, 8.5, 14.6, 15.10, 16.8, 16.9, 16.11
+
+NIST CSF v1.1 PR.AC-1, PR.AC-3, PR.AC-4, PR.AC-6, PR.PT-3, PR.PT-4
+
+CERT RMM v1.2 TM:SG4.SP1
+
+NIST SP 800-53 Rev 4 AC-2, AC- 3, AC-17
+
+March 8, 2021//in CMMC, Compliance, General Security /by Kellep Charles
+
+Limit information system access to the types of transactions and functions that authorized users are permitted to execute.
+
+Source Discussion
+
+Organizations may choose to define access privileges or other attributes by account, by type of account, or a combination of both. System account types include individual, shared, group, system, anonymous, guest, emergency, developer, manufacturer, vendor, and temporary. Other attributes required for authorizing access include restrictions on time-of-day, day-of-week, and point-of-origin. In defining other account attributes, organizations consider system-related requirements (e.g., system upgrades scheduled maintenance,) and mission or business requirements, (e.g., time zone differences, customer requirements, remote access to support travel requirements).
+
+ 
+
+CMMC Clarification
+
+Make sure to limit users/employees to only the information systems, roles, or applications they are permitted to use and that are needed for their jobs.
+
+CMMC GUIDE FURTHER DISCUSSION
+Limit users to only the information systems, roles, or applications they are permitted to use and are needed for their roles and responsibilities [a]. Limit access to applications and data based on the authorized users’ role and responsibilities [b]. Common types of functions a user can be assigned are creating, read, update, and delete.
+
+Examples
+
+You are in charge of payroll for the company and need access to certain company financial information and systems. You work with IT to set up the system so that when users log onto the company’s network, only those employees you allow can use the payroll applications and access payroll data. Because of this good access control, your coworkers in the Shipping Department cannot access information about payroll or paychecks.
+
+ 
+
+References
+
+FAR Clause 52.204-21 b.1.ii
+
+NIST SP 800-171 Rev 1 3.1.2
+
+CIS Controls v7.1 1.4, 1.6, 5.1, 8.5, 14.6, 15.10, 16.8, 16.9, 16.11
+
+NIST CSF v1.1 PR.AC-1, PR.AC-3, PR.AC-4, PR.AC-6, PR.PT-3, PR.PT-4
+
+CERT RMM v1.2 TM:SG4.SP1
+
+NIST SP 800-53 Rev 4 AC-2, AC- 3, AC-17
+
+*** This is a Security Bloggers Network syndicated blog from SecurityOrb.com authored by Kellep Charles. Read the original post at: https://securityorb.com/general-security/ac-1-002-user-access-restrictions-cmmc-level-1/?utm_source=rss&utm_medium=rss&utm_campaign=ac-1-002-user-access-restrictions-cmmc-level-1
+
+CMMC, CMMC Level 1, Compliance, Cybersecurity Maturity Model Certification (CMMC) Levels, General Security

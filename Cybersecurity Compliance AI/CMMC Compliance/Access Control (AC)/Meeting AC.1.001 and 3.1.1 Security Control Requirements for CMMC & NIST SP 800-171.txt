@@ -1,0 +1,25 @@
+NIST SP 800-171 3.1.1 and CMMC AC.1.001 Requirement
+Organizations shall “Limit information system access to authorized users, processes acting on behalf of authorized users, or devices (including other information systems).”
+Breaking down the requirement:
+The control requires that you “Limit information system access”. What is an information system? An information system is a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information. Information resources include laptops, desktops, printers, scanners, servers, network devices, paper documents, and mobile devices such as smartphones. All access to your information system must have an associated business need.
+Limiting access to authorized users means that only personnel with a business need are granted access to your system. Only authorized personnel should have user accounts to access your information system resources such as computers, servers, and cloud resources. User accounts should be password protected (we will discuss multi-factor authentication at a later time).
+Limiting access to processes acting on behalf of authorized users means that automated script updates and other processes should be associated with the user who initiated the process. So you should avoid using generic account names for running scripts such as backup scripts.
+Limit access to authorized devices means limiting which devices can access your information system. This includes only allowing authorized devices onto your network, and only allowing authorized devices to use your VPN.
+test
+AC.1.001 Assessment Objectives
+If you undergo a CMMC assessment, the assessor will try to determine if:
+authorized users are identified;
+processes acting on behalf of authorized users are identified;
+devices (and other systems) authorized to connect to the system are identified;
+system access is limited to authorized users;
+system access is limited to processes acting on behalf of authorized users; and
+system access is limited to authorized devices (including other systems).
+Documenting and implementing the requirement
+You should maintain a list of authorized users, processes, and devices. In the Compliance Accelerator app, we have a System Access Authorizations document template that you can use to help accomplish this. You need to create an account creation process to ensure that only authorized persons are provided with user accounts. For example Human Resources would inform IT of a new employee who is starting and IT would create that new employee’s user account. You need to ensure that processes such as backup scripts or update scripts are run using an account that can be traced back to a specific user, as a result, generic account names like “backup script” should be avoided. You need to remove unauthorized devices from your network and prevent unauthorized devices from connecting your resources.
+Using the Compliance Accelerator App
+ 
+
+ 
+Compliance Accelerator makes it easy for your small business to meet its NIST SP 800-171 and CMMC requirements. Let’s face it, your small business probably doesn’t have its own in-house cybersecurity team, and your IT service provider may not understand your requirements very well.
+Using Compliance Accelerator, simply answer a series of yes or no questions about your security requirements, the app will take over from there. It will automatically calculate your “Summary Level” (SPRS) score, identify security requirements you have not implemented, generate tasks for you to perform to remediate the gaps identified during the self-assessment, and automatically generate your plan of action and milestones. The Compliance Accelerator also includes a downloadable system security plan (SSP) template. Additionally, the app includes over a dozen pre-built IT and cybersecurity documentation templates available for you to download. Simply download the templates and fill in the blanks with your organization’s unique information.
+It’s no fun when you seem to be the only one responsible for everything. Use the Compliance Accelerator’s built-in project management capabilities to assign security requirements. Track your progress from the compliance dashboard.

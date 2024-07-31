@@ -1,0 +1,83 @@
+AC.1.003 External/Remote Connections (CMMC Level 1)
+by Kellep Charles on March 9, 2021
+Verify and control/limit connections to and use of external information systems.
+
+Sources Discussion
+
+External systems are systems or components of systems for which organizations typically have no direct supervision and authority over the application of security requirements and controls or the determination of the effectiveness of implemented controls on those systems. External systems include personally owned systems, components, or devices and privately-owned computing and communications devices resident in commercial or public facilities. This requirement also addresses the use of external systems for the processing, storage, or transmission of FCI, including accessing cloud services (e.g., infrastructure as a service, platform as a service, or software as a service) from organizational systems.
+
+
+Organizations establish terms and conditions for the use of external systems in accordance with organizational security policies and procedures. Terms and conditions address as a minimum, the types of applications that can be accessed on organizational systems from external systems. If terms and conditions with the owners of external systems cannot be established, organizations may impose restrictions on organizational personnel using those external systems.
+
+This requirement recognizes that there are circumstances where individuals using external systems (e.g., contractors, coalition partners) need to access organizational systems. In those situations, organizations need confidence that the external systems contain the necessary controls so as not to compromise, damage, or otherwise harm organizational systems. Verification that the required controls have been effectively implemented can be achieved by third-party, independent assessments, attestations, or other means, depending on the assurance or confidence level required by organizations.
+
+Techstrong Podcasts
+Note that while “external” typically refers to outside of the organization’s direct supervision and authority, that is not always the case. Regarding the protection of FCI across an organization, the organization may have systems that process FCI and others that do not. And among the systems that process FCI, there are likely access restrictions for FCI that apply between systems. Therefore, from the perspective of a given system, other systems within the organization may be considered “external to that system.
+
+CMMC Clarification
+
+Make sure to control and manage connections between your company network and outside networks, such as the public internet or a network that does not belong to your company. Be aware of applications that can be run by outside systems. Control and limit personal devices like laptops, tablets, and phones from accessing the company networks and information. You can also choose to limit how and when your network is connected to outside systems and/or decide that only certain employees can connect to outside systems from network resources.
+
+CMMC GUIDE FURTHER DISCUSSION
+Control and manage connections between your company network and outside networks. Outside networks could include the public internet, one of your own company’s networks that fall outside of your assessment boundary (e.g., an isolated lab), or a network that does not belong to your company [c,e]. Tools to accomplish include firewalls and connection allow/deny lists. External systems not controlled by your company could be running applications that are prohibited or blocked. Control and limit access to corporate networks from personally owned devices such as laptops, tablets, and phones [b,d,f]. You may choose to limit how and when your network is connected to outside systems or only allow certain employees to connect to outside systems from network resources [e].
+
+Example
+
+You help manage IT for your employer. You and your coworkers are working on a big proposal, and all of you will put in extra hours over the weekend to get it done. Part of the proposal includes Federal Contract Information or FCI. FCI is information that you or your company get from doing work for the Federal government. Because FCI is not shared publicly, you remind your coworkers to use their company laptops, not personal laptops or tablets, when working on the proposal over the weekend.
+
+References
+
+FAR Clause 52.204-21 b.1.iii
+
+NIST SP 800-171 Rev 1 3.1.20
+
+CIS Controls v7.1 12.1, 12.4
+
+NIST CSF v1.1 ID.AM-4, PR.AC-3
+
+CERT RMM v1.2 EXD:SG3.SP1
+
+NIST SP 800-53 Rev 4 AC-20, AC- 20(1)
+
+March 9, 2021//in CMMC, Compliance, General Security /by Kellep Charles
+
+Verify and control/limit connections to and use of external information systems.
+
+Sources Discussion
+
+External systems are systems or components of systems for which organizations typically have no direct supervision and authority over the application of security requirements and controls or the determination of the effectiveness of implemented controls on those systems. External systems include personally owned systems, components, or devices and privately-owned computing and communications devices resident in commercial or public facilities. This requirement also addresses the use of external systems for the processing, storage, or transmission of FCI, including accessing cloud services (e.g., infrastructure as a service, platform as a service, or software as a service) from organizational systems.
+
+Organizations establish terms and conditions for the use of external systems in accordance with organizational security policies and procedures. Terms and conditions address as a minimum, the types of applications that can be accessed on organizational systems from external systems. If terms and conditions with the owners of external systems cannot be established, organizations may impose restrictions on organizational personnel using those external systems.
+
+This requirement recognizes that there are circumstances where individuals using external systems (e.g., contractors, coalition partners) need to access organizational systems. In those situations, organizations need confidence that the external systems contain the necessary controls so as not to compromise, damage, or otherwise harm organizational systems. Verification that the required controls have been effectively implemented can be achieved by third-party, independent assessments, attestations, or other means, depending on the assurance or confidence level required by organizations.
+
+Note that while “external” typically refers to outside of the organization’s direct supervision and authority, that is not always the case. Regarding the protection of FCI across an organization, the organization may have systems that process FCI and others that do not. And among the systems that process FCI, there are likely access restrictions for FCI that apply between systems. Therefore, from the perspective of a given system, other systems within the organization may be considered “external to that system.
+
+CMMC Clarification
+
+Make sure to control and manage connections between your company network and outside networks, such as the public internet or a network that does not belong to your company. Be aware of applications that can be run by outside systems. Control and limit personal devices like laptops, tablets, and phones from accessing the company networks and information. You can also choose to limit how and when your network is connected to outside systems and/or decide that only certain employees can connect to outside systems from network resources.
+
+CMMC GUIDE FURTHER DISCUSSION
+Control and manage connections between your company network and outside networks. Outside networks could include the public internet, one of your own company’s networks that fall outside of your assessment boundary (e.g., an isolated lab), or a network that does not belong to your company [c,e]. Tools to accomplish include firewalls and connection allow/deny lists. External systems not controlled by your company could be running applications that are prohibited or blocked. Control and limit access to corporate networks from personally owned devices such as laptops, tablets, and phones [b,d,f]. You may choose to limit how and when your network is connected to outside systems or only allow certain employees to connect to outside systems from network resources [e].
+
+Example
+
+You help manage IT for your employer. You and your coworkers are working on a big proposal, and all of you will put in extra hours over the weekend to get it done. Part of the proposal includes Federal Contract Information or FCI. FCI is information that you or your company get from doing work for the Federal government. Because FCI is not shared publicly, you remind your coworkers to use their company laptops, not personal laptops or tablets, when working on the proposal over the weekend.
+
+References
+
+FAR Clause 52.204-21 b.1.iii
+
+NIST SP 800-171 Rev 1 3.1.20
+
+CIS Controls v7.1 12.1, 12.4
+
+NIST CSF v1.1 ID.AM-4, PR.AC-3
+
+CERT RMM v1.2 EXD:SG3.SP1
+
+NIST SP 800-53 Rev 4 AC-20, AC- 20(1)
+
+*** This is a Security Bloggers Network syndicated blog from SecurityOrb.com authored by Kellep Charles. Read the original post at: https://securityorb.com/general-security/ac-1-003-external-remote-connections-cmmc-level-1/?utm_source=rss&utm_medium=rss&utm_campaign=ac-1-003-external-remote-connections-cmmc-level-1
+
+CMMC, CMMC Level 1, Compliance, Cybersecurity Maturity Model Certification (CMMC) Levels, General Security

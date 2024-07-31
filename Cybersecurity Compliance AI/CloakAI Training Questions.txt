@@ -1,0 +1,44 @@
+General Cybersecurity Compliance
+	What are the key principles of the NIST Cybersecurity Framework?
+	How does GDPR impact data protection policies?
+	What steps are required for CMMC Level 3 certification?
+
+Specific Regulations and Standards
+	What are the main requirements of HIPAA for healthcare organizations?
+	How does the OWASP Top 10 guide help in securing web applications?
+	What are the critical security controls in NIST SP 800-53?
+
+Practical Implementation
+	How can we implement multifactor authentication in our organization?
+	What are the best practices for securing cloud environments?
+	How should we handle data encryption to comply with GDPR?
+
+Incident Response
+	What are the key components of an effective incident response plan?
+	How should we document a security incident according to NIST guidelines?
+	What are the steps for recovering from a ransomware attack?
+
+User Awareness and Training
+	What are the essential elements of a cybersecurity awareness training program?
+	How can we ensure employees follow data protection policies?
+	What should employees do if they suspect a phishing attack?
+
+Risk Management
+	How do we conduct a risk assessment following NIST SP 800-30?
+	What methods can we use to identify and mitigate supply chain risks?
+	How can we prioritize vulnerabilities identified during a security audit?
+
+Compliance Monitoring and Auditing
+	What tools can help us monitor compliance with cybersecurity regulations?
+	How should we prepare for a cybersecurity compliance audit?
+	What are the common pitfalls during a cybersecurity compliance audit and how to avoid them?
+
+Advanced Topics
+	How does the MITRE ATT&CK framework assist in threat detection and response?	
+	What are the implications of AI and machine learning in cybersecurity?
+	How should we integrate security measures in a DevSecOps pipeline?
+
+Scenario-Based Questions
+	We are planning to migrate to a cloud service provider. What compliance checks should we perform?
+	A data breach has occurred in our organization. What steps should we take immediately to comply with legal and regulatory 	requirements?
+	Our organization needs to comply with both HIPAA and GDPR. How can we harmonize our compliance efforts?	

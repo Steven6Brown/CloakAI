@@ -1,0 +1,11 @@
+CMMC 1.0 Practice AC.1.002 Requirement:
+Limit information system access to the types of transactions and functions that authorized users are permitted to execute.
+CMMC 1.0 AC.1.002 Requirement Explanation:
+By granting system users access to only the resources needed to complete their assigned duties you are reducing the risk of a security incident.
+Example CMMC 1.0 AC.1.002 Implementation:
+Only allow users to access the systems and information they need to complete their assigned work tasks. Review your user's current permissions and determine if they are inline with their job duties. If a user has more access than they need, revoke the excess access. Create user security groups to reflect the access requirements of your employees. Add your users to the appropriate group. For example, add the account belonging to a developer to the developer group.
+CMMC 1.0 AC.1.002 Scenario(s):
+- Scenario 1:
+Two new employees are scheduled to start next week Monday. One will be working in the HR department, the other will be an application developer. Alice, a system administrator creates their user accounts and adds each employee to a different user group. The new HR employee is added to the "HR" security group and the developer employee is added to the "Developers" security group.
+- Scenario 2:
+The HR employee will be able to access the file server used by the HR team but will not be able to access any other servers. The new developer will be able to access his development servers but not the HR file server. Both employees are only allowed access to authorized systems and both employees can complete their work.

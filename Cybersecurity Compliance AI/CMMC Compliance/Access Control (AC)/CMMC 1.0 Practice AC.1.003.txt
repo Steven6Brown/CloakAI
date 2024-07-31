@@ -1,0 +1,13 @@
+CMMC 1.0 Practice AC.1.003 Requirement:
+Verify and control/limit connections to and use of external information systems.
+CMMC 1.0 AC.1.003 Requirement Explanation:
+Employees should not be processing “Federal Contract Information” (FCI) or “Controlled Unclassified Information” (CUI) on non-company external systems. An exception to this rule can be made if the device meets your security requirements and has been approved for use. External systems generally include personal smartphones, tablets and laptops. Other examples include a computer in a hotel lobby or a personal cloud storage service.
+Example CMMC 1.0 AC.1.003 Implementation:
+Employees are to use company-provided systems (e.g. laptop) when storing or sending “Federal Contract Information” (FCI) and “Controlled Unclassified Information” (CUI). Establish terms and conditions external systems need to meet before accessing your systems. External systems refer to any device that is not under the control of your company. Examples include personal devices or a system belonging to a contractor. Terms and conditions can include requiring that a device is password-protected, has anti-malware software installed, and is encrypted.
+CMMC 1.0 AC.1.003 Scenario(s):
+- Scenario 1:
+It is Sunday morning and Bob has an important report to finish for a federal client. Unfortunately for Bob his password has expired and he can't access his work computer. He is also unable to reach the IT team for a password reset. Bob emails his report containing FCI to his personal email account and finishes the report using his personal computer. He emails the finished report to his manager using his personal email account. Bob has put “Federal Contract Information” (FCI) at risk by using his personal devices and email. Bob's manager warns Bob and informs the security team of the incident.
+- Scenario 2:
+Bob wants to sync his corporate OneDrive to his personal laptop to bypass the new security controls IT has implemented. When Bob attempts to sync his corporate OneDrive he receives a message saying that the sync was blocked by his administrator. Bob is thus forced to use his corporate laptop.
+- Scenario 3:
+Bob wants to configure his corporate email on his personal smartphone. When trying to setup email on his phone he receives an error message stating that he needs to set up a pin code and enable encryption on his phone. Bob creates a pin code and enables encryption. He is now able to set up corporate email on his phone because it meets his company's security requirements.
