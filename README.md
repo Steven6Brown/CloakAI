@@ -16,17 +16,18 @@ Setup
 
  
 Requirements
-Hardware
-  1.	Windows computer.
-  2.	Computer with 8GB RAM or more.
-Software
-  1.	Windows Subsystem for Linux (WSL).
-  2.	Docker.
-  3.	Ollama Llama 3.
-  4.	Open WebUI.
-Additional Information
-  1.	Data to train the model.
-  2.	Access to internet.
+
+  Hardware
+    1.	Windows computer.
+    2.	Computer with 8GB RAM or more.
+  Software
+    1.	Windows Subsystem for Linux (WSL).
+    2.	Docker.
+    3.	Ollama Llama 3.
+    4.	Open WebUI.
+  Additional Information
+    1.	Data to train the model.
+    2.	Access to internet.
 
  
 Commands
