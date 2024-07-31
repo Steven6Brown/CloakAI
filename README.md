@@ -1,19 +1,5 @@
 Locally Hosted AI Install & Setup Guide
 
-Table of Contents
-Requirements
-Hardware
-Software
-Additional Information
-Commands
-Setup WSL (Windows)
-Install Ollama Llama 3
-Install Docker
-Run Open WebUI Docker Container
-Install Prereqs & Pyenv
-Install Stable Diffusion
-Setup
-
  
 Requirements
 
