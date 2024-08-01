@@ -16,7 +16,8 @@ Software
 Additional Information
   1.	Data to train the model.
   2.	Access to the internet.
- 
+
+ 
 Commands
 Setup WSL (Windows)
   1.	https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=158s
